@@ -28,7 +28,7 @@ A ETL pipeline that extract Flight data from Tribhuvan International Airport.
 9)  Connect to the ec2 instance using `ssh -i tia_key.pem {user_name}@{ec2_ip}` 
     > Note: If you use default ami your user_name will be ubuntu
 10)  `sudo snap install docker` to install docker in ec2
-11)  Username and password used by airflow and local postgres server are hardcoded in `docker-compose-yaml`
+11)  Username and password used by airflow and local postgres server are hardcoded in `docker-compose.yaml`
 12)  Copy all files and folders to ec2 except terraform
 13)  `docker-compose build`
 14)  `docker-compose up`
