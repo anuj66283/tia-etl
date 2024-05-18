@@ -13,7 +13,7 @@ A ETL pipeline that extract Flight data from Tribhuvan International Airport.
    
 # Dashboard
 
-![dashboard](images/dashboard.PNG)
+![dashboard](images/dashboard.png)
 
 # How to use?
 
